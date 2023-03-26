@@ -1,1 +1,2 @@
 # Bank-app
+A bank app created in winter of 2021, as a school assignment. UI has to be added in the future. It has the following functionalities: The user can log in as admin, teller, or client. The admin can add new cients, and access the list of existing clients. Teller is able to issue loans based on certain criteria, as well as get the list of clients. The clients is able to receive bank statements, withdraw money, get remaining loan limit, and transfer money to another account.
